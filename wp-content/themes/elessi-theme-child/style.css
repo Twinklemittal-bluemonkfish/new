@@ -1,0 +1,41 @@
+/*
+Theme Name: Elessi Child Theme
+Theme URI: https://elessi.nasatheme.com/demo/
+Description: This is a child theme for Elessi Theme
+Author: NasaTheme
+Author URI: https://nasatheme.com
+Template: elessi-theme
+Version: 1.0
+*/
+
+
+/*************** ADD YOUR CUSTOM CSS IN THIS AREA ***************/
+.nasa-category-horizontal-4 .nasa-cat-thumb img{height:200px;padding:0px 5px;}
+.page-id-3554 .bread.nasa-breadcrumb-has-bg .breadcrumb-row *
+{display:none !important;}
+#nasa-footer .footer-light-2 .contact-information {
+    margin-top: 0px !important;
+}
+.nasa-follow {
+    margin-top: 16px;
+    margin-bottom: 0;
+    margin-right: 0px;
+    margin-left: 645px !important;
+}
+img.nasa-image {
+    margin-top: 30px;
+}
+#nasa-footer .footer-light-2 .contact-information{
+    margin-top: 66px !important;
+}
+
+.nav-wrapper .root-item:hover>a:after, .nav-wrapper .root-item.current-menu-ancestor>a:after, .nav-wrapper .root-item.current-menu-item>a:after{border-color:#81d742 !important;}
+.nav-wrapper .root-item:hover>a, .nav-wrapper .root-item.current-menu-ancestor>a, .nav-wrapper .root-item.current-menu-item>a{color:#81d742 !important;}
+.current-menu-item>a, a:hover, a:focus, .nasa-nav-sc-menu .menu-item a:hover,.nav-wrapper .root-item:hover>a:hover, .nav-wrapper .root-item.current-menu-ancestor>a:hover, .nav-wrapper .root-item.current-menu-item>a:hover{color:#81d742 !important;}
+.nav-wrapper .root-item>a:after{bottom: 0px !important;}
+.nav-wrapper .root-item.menu-parent-item>a .nasa-open-child{right: -28px !important;
+    top: 56% !important;}
+.nav-wrapper .root-item>a{font-size:18px !important; padding: 15px 0px 10px 0 !important;}
+.nasa-menu-vertical-header{margin-right: 75px !important; }
+.nasa-vertical-header.vertical-menu .section-title{background:#81d742 !important;}
+.nasa-vertical-header.vertical-menu .section-title:hover {background:#486b00 !important;}

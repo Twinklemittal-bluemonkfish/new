@@ -1,0 +1,290 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TF Woo Product Mini Cart Addon For Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-31 07:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7\n"
+"X-Domain: tf-addon-for-elementer"
+
+#: addon-elementor.php:148
+#, php-format
+msgid "\"%1$s\" If you want to use \"%2$s\" then install the following Plugin."
+msgstr ""
+
+#: addon-elementor.php:100 addon-elementor.php:137
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: addon-elementor.php:111 addon-elementor.php:125
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: widgets/widget-mini-cart.php:441
+msgid "ADD TO CART"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:54
+msgid "Alignment"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:222 widgets/widget-mini-cart.php:254
+#: widgets/widget-mini-cart.php:370 widgets/widget-mini-cart.php:629
+#: widgets/widget-mini-cart.php:669 widgets/widget-mini-cart.php:722
+#: widgets/widget-mini-cart.php:762
+msgid "Background Color"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:172 widgets/widget-mini-cart.php:583
+#: widgets/widget-mini-cart.php:642 widgets/widget-mini-cart.php:682
+#: widgets/widget-mini-cart.php:735 widgets/widget-mini-cart.php:775
+msgid "Border"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:180 widgets/widget-mini-cart.php:382
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:194 widgets/widget-mini-cart.php:592
+msgid "Box Shadow"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:693
+msgid "Button Checkout"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:600
+msgid "Button View Cart"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:532
+msgid "Canvas"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:822
+msgid "Cart"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:62
+msgid "Center"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:210 widgets/widget-mini-cart.php:242
+#: widgets/widget-mini-cart.php:358 widgets/widget-mini-cart.php:456
+#: widgets/widget-mini-cart.php:505 widgets/widget-mini-cart.php:617
+#: widgets/widget-mini-cart.php:657 widgets/widget-mini-cart.php:710
+#: widgets/widget-mini-cart.php:750
+msgid "Color"
+msgstr ""
+
+#: inc/function.php:276
+msgid "Compare"
+msgstr ""
+
+#: addon-elementor.php:150
+msgid "Compare, Quick View, Wishlist"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:274 widgets/widget-mini-cart.php:479
+msgid "Count"
+msgstr ""
+
+#: inc/function.php:44 inc/function.php:49
+msgid "Custom Product Badge: "
+msgstr ""
+
+#: addon-elementor.php:102 addon-elementor.php:113
+msgid "Elementor"
+msgstr ""
+
+#: inc/function.php:50
+msgid "Enter your badge text. Ex: Hot / Free etc"
+msgstr ""
+
+#: inc/function.php:45
+msgid "Enter your badge text. Ex: New / Free etc"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:34
+msgid "General"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:236 widgets/widget-mini-cart.php:651
+#: widgets/widget-mini-cart.php:744
+msgid "Hover"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://codecanyon.net/user/themesflat"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:106 widgets/widget-mini-cart.php:113
+msgid "Icon"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:46
+msgid "Icon & Text"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:125
+msgid "Icon Font Size"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:148 widgets/widget-mini-cart.php:289
+msgid "Icon Size"
+msgstr ""
+
+#: widgets/widget-woo-product-single-image.php:54
+msgid "Image"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:490
+msgid "Item:"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:58
+msgid "Left"
+msgstr ""
+
+#: inc/function.php:190 inc/function.php:210
+msgid "Load More"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:91 widgets/widget-mini-cart.php:468
+#: widgets/widget-mini-cart.php:517
+msgid "Margin"
+msgstr ""
+
+#: inc/function.php:178
+msgid "Next"
+msgstr ""
+
+#: inc/function.php:609
+msgid "No product found"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:204 widgets/widget-mini-cart.php:611
+#: widgets/widget-mini-cart.php:704
+msgid "Normal"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:312
+msgid "Offset Horizontal"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:335
+msgid "Offset Vertical"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:45
+msgid "Only Icon"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:80 widgets/widget-mini-cart.php:562
+msgid "Padding"
+msgstr ""
+
+#: addon-elementor.php:127
+msgid "PHP"
+msgstr ""
+
+#: addon-elementor.php:153
+msgid "Plugin Compare"
+msgstr ""
+
+#: addon-elementor.php:155
+msgid "Plugin Quick View"
+msgstr ""
+
+#: addon-elementor.php:157
+msgid "Plugin Wishlist"
+msgstr ""
+
+#: inc/function.php:177
+msgid "Previous"
+msgstr ""
+
+#: widgets/widget-woo-product-single-image.php:41
+msgid "Product"
+msgstr ""
+
+#: widgets/widget-woo-product-single-image.php:34
+msgid "Product Settings"
+msgstr ""
+
+#: inc/function.php:287
+msgid "Quick View"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:66
+msgid "Right"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:408
+msgid "Spacing"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:41
+msgid "Style"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:398 widgets/widget-mini-cart.php:431
+#: widgets/widget-mini-cart.php:439
+msgid "Text"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:488
+msgid "Text Count"
+msgstr ""
+
+#: inc/function.php:29
+msgid "TF Product Badge"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:10
+msgid "TF Woo Mini Cart"
+msgstr ""
+
+#: addon-elementor.php:101 addon-elementor.php:112 addon-elementor.php:126
+#: addon-elementor.php:138 addon-elementor.php:149
+msgid "TF Woo Product Grid Addon For Elementor"
+msgstr ""
+
+#. Name of the plugin
+msgid "TF Woo Product Mini Cart Addon For Elementor"
+msgstr ""
+
+#: widgets/widget-woo-product-single-image.php:10
+msgid "TF Woo Product Single Image"
+msgstr ""
+
+#. Description of the plugin
+msgid "The theme's components"
+msgstr ""
+
+#. Author of the plugin
+msgid "Themesflat"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:799 widgets/widget-mini-cart.php:800
+msgid "View your shopping cart"
+msgstr ""
+
+#: widgets/widget-mini-cart.php:539
+msgid "Width"
+msgstr ""
+
+#: addon-elementor.php:139
+msgid "WooCommerce"
+msgstr ""
